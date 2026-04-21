@@ -1,0 +1,2 @@
+I underdtand from here that this is trying to explain the fibnocci sequenece using recursion. It was like saying the runs of it and explaining it.
+It says what is an index, and explain each sequence. 
